@@ -71,3 +71,7 @@ This project helped in understanding how SQL can be used to transform raw sales 
 
 
 ## ⭐ If you found this project useful, feel free to explore, learn, and improve upon it.
+
+
+## Acknowledgement
+This project was implemented by me based on a Pizza Sales Analysis tutorial and dataset available publicly for educational and portfolio purposes.
