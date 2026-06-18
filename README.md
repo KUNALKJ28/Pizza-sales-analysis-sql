@@ -65,7 +65,7 @@ The project consists of four relational tables:
 
 This project helped in understanding how SQL can be used to transform raw sales data into meaningful insights. The analysis identified customer preferences, popular pizza categories, revenue trends, and peak business hours, demonstrating the practical application of SQL in business analytics and decision-making.
 
-## 👨‍💻 Author
+## 👨‍💻 Project By 
 
 **Kunal Sandeep Jadhav**
 
