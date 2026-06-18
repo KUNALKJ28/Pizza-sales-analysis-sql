@@ -68,6 +68,6 @@ This project helped in understanding how SQL can be used to transform raw sales 
 ## 👨‍💻 Author
 
 **Kunal Sandeep Jadhav**
-Third Year – Electronics and Telecommunication Engineering (TE EXTC)
+
 
 ## ⭐ If you found this project useful, feel free to explore, learn, and improve upon it.
